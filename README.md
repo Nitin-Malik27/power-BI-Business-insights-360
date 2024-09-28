@@ -9,20 +9,22 @@ LIVE Dashboard:[click here](https://app.powerbi.com/view?r=eyJrIjoiZmI4OWQ1OTEtY
  3.Excel,power pivot,power query,power view     <br>
  4.DAX language,DAX studio    <br>
  5.project charter file    <br>
- # Power BI techniques:
-    * Asking the right questions before data exploration
-    * Creating calculated columns
-    * Cleaning messy data using DAX functions
-    * Data modeling
-    * Using bookmarks to navigate through reports
-    * Page navigation with buttons
-    * Dynamic slicers based on applied filters
-    * Using KPI indicators
-    * Conditional formatting (background color)
-    * Data validation techniques
-    * Publishing reports to Power BI services
-    * Creating Power Apps
-    * Access permissions in Power BI services
+ 
+# Power BI Techniques
+
+  - Asking the Right Questions Before Data Exploration
+  - Creating Calculated Columns
+  - Cleaning Messy Data Using DAX Functions
+  - Data Modeling
+  - Using Bookmarks to Navigate Through Reports
+  - Page Navigation with Buttons
+  - Dynamic Slicers Based on Applied Filters
+  - Using KPI Indicators
+  - Conditional Formatting (Background Color)
+  - Data Validation Techniques
+  - Publishing Reports to Power BI Services
+  - Creating Power Apps**
+  - Access Permissions in Power BI Services
 
 **Goals:**
 
