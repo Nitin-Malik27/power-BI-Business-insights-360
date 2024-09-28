@@ -49,3 +49,4 @@ LIVE Dashboard:[click here](https://app.powerbi.com/view?r=eyJrIjoiZmI4OWQ1OTEtY
 **Next Steps:**
 
 This project lays the groundwork for continued exploration and integration of data insights into AtliQ Hardware's operations.
+![alt text](https://github.com/Nitin-Malik27/power-BI-Business-insights-360/blob/main/home%20page.jpg)
