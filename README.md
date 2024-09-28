@@ -26,22 +26,22 @@ LIVE Dashboard:[click here](https://app.powerbi.com/view?r=eyJrIjoiZmI4OWQ1OTEtY
   - Creating Power Apps**
   - Access Permissions in Power BI Services
 
-**Goals:**
+# Goals:
 
 * **Consolidate Data:** Streamline data from various sources for a holistic view and identify potential growth opportunities.
 * **Actionable Insights:**  Develop a comprehensive Power BI dashboard to visualize key sales trends and reveal valuable customer insights.
 
-**Key Achievements:**
+# Key Achievements:
 
-* **Sales Optimization:** Net sales surged by an impressive 203.5% with minimal profit impact. Peak sales consistently occur from October to December.
+* **Sales Optimization:** Net sales surged by an impressive 353.5% with minimal profit impact in FY 2022. Peak sales consistently occur from October to December.
 * **Product Performance:** The AG Home AH-1 Gen 2 reigns supreme as the best-selling product.
 * **Regional Analysis:** The APAC region boasts the highest sales volume.
 * **Profitable Segments:** Notebooks and business laptops lead the pack in profitability.
-* **Improved Forecasting:** Cost optimization strategies enhanced forecast accuracy.
+* **Improved Forecasting:** Cost optimization strategies enhanced forecast accuracy(around 80%).
 * **Top Performers:** Retailer Channel and POS Division emerged as the top revenue contributors.
 * **Customer Focus:** The top 5 customers account for a significant 37% of total sales. Market share reached 15% in FY 2022, with noteworthy growth in North America and South Europe.
 
-**Benefits:**
+# Benefits:
 
 * **Empowered Decision-Making:** This project establishes a data-driven foundation for AtliQ Hardware's future success, allowing for more informed strategic choices.
 * **Improved Efficiency:** Streamlined data analysis translates to faster and more efficient decision-making across departments.
