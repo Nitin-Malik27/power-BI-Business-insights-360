@@ -1,4 +1,4 @@
-# power-BI-Business-insights-360
+# Power-BI-Business-insights-360
 
 This project empowers AtliQ Hardware, a rising star in the electronics market, to unlock data-driven decision-making for their global expansion. Previously, siloed data hampered insights across sales, marketing, and supply chains. This project tackles this challenge by leveraging the power of Power BI.<br>
 LIVE Dashboard:[click here](https://app.powerbi.com/view?r=eyJrIjoiZmI4OWQ1OTEtYzE3NC00NTkzLTllZWUtZjQwM2RkNDczOTA1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
@@ -53,14 +53,8 @@ ROCCC Evaluation:
 - Current: MED - Dataset was updated upto FY 2022 i.e almost 2 years old. So its not very relevant. Any trends observed and insights gained need to be comprehended as a general (not FY-specific) trend.
 - Citation: HIGH - Official citation/reference available.
   # Model View
-  ![alt text]
-  
-# Tech skills & learnings:
- 1.SQL   <br>
- 2.Power BI desktop    <br>
- 3.Excel,power pivot,power query,power view     <br>
- 4.DAX language,DAX studio    <br>
- 5.project charter file    <br>
+  ![alt text](https://github.com/Nitin-Malik27/power-BI-Business-insights-360/blob/main/model%20view.png)
+
  
 # Power BI Techniques
 
@@ -101,15 +95,15 @@ ROCCC Evaluation:
 **Next Steps:**
 
 This project lays the groundwork for continued exploration and integration of data insights into AtliQ Hardware's operations. <br>
-**home page**Central navigation hub with easy access to all views, complete with support and information manual.
+**home page**-Central navigation hub with easy access to all views, complete with support and information manual.
 ![alt text](https://github.com/Nitin-Malik27/power-BI-Business-insights-360/blob/main/dashboard%20photos/home%20page.jpg)
-**finance view**Enhances financial planning and cost control, featuring a P&L Statement, Net Sales Trend and Breakdown by Products/Customers and more.
+**finance view**-Enhances financial planning and cost control, featuring a P&L Statement, Net Sales Trend and Breakdown by Products/Customers and more.
 ![alt text](https://github.com/Nitin-Malik27/power-BI-Business-insights-360/blob/main/dashboard%20photos/finance%20view.jpg)
-**sales view**focuses on boosting sales revenue and tracking customer performance, including Gross Margin % Variance across Customers/Products and more.
+**sales view**-focuses on boosting sales revenue and tracking customer performance, including Gross Margin % Variance across Customers/Products and more.
 ![alt text](https://github.com/Nitin-Malik27/power-BI-Business-insights-360/blob/main/dashboard%20photos/sales%20view.jpg)
-**marketing view**Elevates brand visibility and evaluates marketing campaign ROI, with insights into Segment Performance, Net Profit % Variance across Regions and more.
+**marketing view**-Elevates brand visibility and evaluates marketing campaign ROI, with insights into Segment Performance, Net Profit % Variance across Regions and more.
 ![alt text](https://github.com/Nitin-Malik27/power-BI-Business-insights-360/blob/main/dashboard%20photos/marketing%20view.jpg)
-**supply chain view**Optimizes inventory management and demand forecasting, featuring trends in Forecast Accuracy and Inventory Stock Risk by Customers/Products.
+**supply chain view**-Optimizes inventory management and demand forecasting, featuring trends in Forecast Accuracy and Inventory Stock Risk by Customers/Products.
 ![alt text](https://github.com/Nitin-Malik27/power-BI-Business-insights-360/blob/main/dashboard%20photos/supply%20chain%20view.jpg)
-**exceutive view**Provides a high-level overview of organizational performance for top AtliQ executives and senior management, showcasing business KPIs, Revenue Contributions by Division/Channel, Top Customers & Products, AtliQ's Market Share Trend and more.
+**exceutive view**-Provides a high-level overview of organizational performance for top AtliQ executives and senior management, showcasing business KPIs, Revenue Contributions by Division/Channel, Top Customers & Products, AtliQ's Market Share Trend and more.
 ![alt text](https://github.com/Nitin-Malik27/power-BI-Business-insights-360/blob/main/dashboard%20photos/executive%20view.jpg)
